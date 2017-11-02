@@ -19,4 +19,8 @@ class School
     @roster[n]
   end
 
+  def sort
+    @roster.sort
+  end
+
 end
